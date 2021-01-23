@@ -10,3 +10,5 @@ Dependencies specific to the automated In Silico modelling
 openbabel 2.4.1 
 mgltools  1.5.4
 autodock-vina 1.1.2-4
+gromacs
+acpype
